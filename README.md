@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=원하는텍스트&fontSize=70&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Jihae's 
+ Log&fontSize=70&animation=twinkling)
 
 <!--
 **BaeJihae/BaeJihae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
