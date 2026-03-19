@@ -1,5 +1,3 @@
-<!-- 🟠 상단 waving 배너 -->
-<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=ffffff&fontSize=36&text=👩‍💻%20배지해%20|%20Frontend%20Developer&height=150" width="100%"/>
 <!-- 🟣 인삿말 타이핑 효과 -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F58CBA&center=true&vCenter=true&width=440&lines=Hi!+I'm+Jihae+%F0%9F%91%8B;Always+learning%2C+always+building!" alt="Typing SVG" />
